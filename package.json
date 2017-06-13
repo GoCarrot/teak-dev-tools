@@ -1,0 +1,8 @@
+{
+  "name": "teak-dev-tools",
+  "version": "1.0.0",
+  "description": "Tools for developing and integrating the Teak SDK.",
+  "main": "index.js",
+  "author": "Pat Wilson",
+  "license": "MIT"
+}
