@@ -4,5 +4,14 @@
   "description": "Tools for developing and integrating the Teak SDK.",
   "main": "index.js",
   "author": "Pat Wilson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "globby": "^6.1.0",
+    "readline": "^1.3.0"
+  },
+  "bin": {
+    "teak": "./index.js"
+  }
 }
